@@ -4,6 +4,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688.svg?style=flat&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![YOLOv8](https://img.shields.io/badge/YOLO-v8-orange.svg)](https://github.com/ultralytics/ultralytics)
 [![Tesseract OCR](https://img.shields.io/badge/OCR-Tesseract-red.svg)](https://github.com/tesseract-ocr/tesseract)
+[![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 An intelligent, full-stack hybrid AI application that automates the extraction of key demographic fields from Aadhaar cards (India's unique identity card). It utilizes a custom-trained **YOLOv8** object detection model to locate text regions, applies advanced **OpenCV** preprocessing filters for text clarity, and runs **Tesseract OCR** to parse the content with high-accuracy fallbacks.
 
